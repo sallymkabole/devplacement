@@ -18,3 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[![CircleCI](https://circleci.com/gh/sallymkabole/devplacement.svg?style=svg&circle-token=<01738a69613380c4a098dfd01215c2a7c4218cf1>)](https://circleci.com/gh/sallymkabole/devplacement)
